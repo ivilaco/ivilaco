@@ -6,7 +6,7 @@ I'm an Economist with a strong passion for topics related to Development, Gender
 
 🎓 I hold a M.A. in Economics, a M.A. in Economics of Public Policies and a BSc in Economics from Universidad del Rosario. 📚
 
-🌱 I have also completed the Data Science for All (DS4A) program by Correlation One,as well as two programs provided by Bloomberg: Bloomberg Market Concepts (BMC) and Environmental Social Governance (ESG). 
+🌱 I have also completed the Data Science for All (DS4A) program by Correlation One, as well as two programs provided by Bloomberg: Bloomberg Market Concepts (BMC) and Environmental Social Governance (ESG). 
 
 ## 🛠️ Skills and Expertice 
 * Programming Languages: Python, Stata and R
